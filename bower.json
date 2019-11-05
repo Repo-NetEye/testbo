@@ -1,0 +1,24 @@
+{
+  "name": "testbo",
+  "authors": [
+    "NetEye <Repo-NetEye@gmail.com>"
+  ],
+  "description": "Nothing",
+  "main": "index.php",
+  "keywords": [
+    "project"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/repo-neteye/testbo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.4"
+  }
+}
